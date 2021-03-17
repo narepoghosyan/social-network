@@ -2,7 +2,7 @@
   "name": "react-kabzda-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://narepoghosyan.github.io/way-of-samurai",
+  "homepage": "https://narepoghosyan.github.io/react-way-of-samurai",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
